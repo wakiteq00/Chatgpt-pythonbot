@@ -5,7 +5,7 @@ import openai
 
 
 #Bot Api Token
-API_TOKEN = 'your token'
+API_TOKEN = '6035832247:AAFIJuYQ9n7b9YA68lPFKy3kNemXKYyRW-E'
 #Openai Api Key
 openai.api_key="your key"
 
